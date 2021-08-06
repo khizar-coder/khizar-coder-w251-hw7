@@ -2,6 +2,8 @@
 
 The code is based off the "Beat the Benchmark" and "Fork me" Notebooks
 
+We achieved 95.04% accuracy
+
 We  added:
 - label smoothing ( works)
 - mixup ( works )
